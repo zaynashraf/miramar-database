@@ -1,4 +1,4 @@
-# San Diego Miramar College Database 
+# Miramar College Student Grading System
 
 ## Overview
 The Miramar College Student Grading System is a C++ console-based application that manages student records, including names, grades, and academic performance. It allows users to search, edit, save, and load student data while calculating grade averages and letter grades based on predefined grading criteria.
