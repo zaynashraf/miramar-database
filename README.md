@@ -31,3 +31,6 @@ Compile the code using a C++ compiler (e.g., g++ main.cpp -o grading_system).
 Run the executable (./grading_system).
 
 Follow on-screen instructions to manage student records.
+
+<img width="550" alt="Screenshot 2025-04-02 at 8 35 48 PM" src="https://github.com/user-attachments/assets/d9969ce1-ab99-4ee9-a80b-363c3617f6aa" />
+
